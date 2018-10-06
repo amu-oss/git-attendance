@@ -1,6 +1,6 @@
 import areeb from './areeb.js';
 import abhinay from './abhinay.js';
-import areeb from './areeb.js'
+import haider from './haider.js'
 import prajjwal from './prajjwal.js'
 import vishal from './vishal.js'
 import roshan from './roshan.js'
@@ -14,5 +14,6 @@ export default [
     roshan,
     vishal,
     abhinay,
-    prajjwal
+    prajjwal,
+    haider
 ]
