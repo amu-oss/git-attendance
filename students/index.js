@@ -1,8 +1,7 @@
 
 import areeb from './areeb.js'
 import azam from './azam.js'
-import areeb from './areeb.js';
-import abhinay from './abhinay.js';
+import abhinay from './abhinay.js'
 import haider from './haider.js'
 import prajjwal from './prajjwal.js'
 import vishal from './vishal.js'
