@@ -1,5 +1,4 @@
-import areeb from './areeb.js'
+import areeb from './areeb.js';
+import abhinay from './abhinay.js';
 
-export default [
-    areeb
-]
+export default [areeb, abhinay];
