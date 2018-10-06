@@ -1,3 +1,6 @@
+
+import areeb from './areeb.js'
+import azam from './azam.js'
 import areeb from './areeb.js';
 import abhinay from './abhinay.js';
 import haider from './haider.js'
@@ -15,5 +18,6 @@ export default [
     vishal,
     abhinay,
     prajjwal,
-    haider
+    haider,
+    azam,
 ]
